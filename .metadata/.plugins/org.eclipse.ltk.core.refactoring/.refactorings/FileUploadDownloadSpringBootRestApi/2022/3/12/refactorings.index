@@ -1,0 +1,15 @@
+1647643643661	Rename package 'exceptions'
+1647643732385	Rename type 'FileInfo'
+1647643801225	Delete element
+1647643811925	Rename type 'FilesStorageServiceImpl'
+1647643850210	Rename type 'FilesController'
+1647644312548	Delete element
+1647644415790	Rename type 'FilesStorageService'
+1647645790490	Copy package
+1647645795985	Delete element
+1647645830058	Rename package 'controller'
+1647645849388	Rename package 'exception'
+1647645857874	Rename package 'message'
+1647645870232	Rename package 'model'
+1647645883194	Rename package 'repository'
+1647645892105	Rename package 'service'
